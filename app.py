@@ -190,7 +190,7 @@ st.markdown("""
 # --- 4. GIAO DIỆN CHÍNH ---
 st.markdown("""
 <div class="main-header">
-    <h1>📘 TRỢ LÝ SOẠN GIÁO ÁN TỰ ĐỘNG (NLS)</h1>
+    <h1>📘  TRỢ LÝ SOẠN GIÁO ÁN TỰ ĐỘNG (NLS)</h1>
     <p>Tác giả: Lương Anh Sáng - Trường PTDTBT Tiểu học Phú Nam - ĐT: 0968 748 352</p>
 </div>
 """, unsafe_allow_html=True)
