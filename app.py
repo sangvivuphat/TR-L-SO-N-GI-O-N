@@ -270,7 +270,7 @@ if st.button("🚀 SOẠN GIÁO ÁN NGAY"):
                 * Nội dung tích hợp (VD: Học thông qua chơi, Công dân số,...)
                     - Lưu ý: Thêm phát triển năng lực số trong mục phát triển năng lực (Dựa vào file Khung năng lực nếu có).
                     - Nội dung tích hợp Học thông qua chơi trong Yêu cầu cần đạt cần cụ thể chi tiết hơn nữa.
-                    - Nội dung tích hợp Công dân số cũng cần cụ thể hơn trong yêu cầu cần đạt.
+                    - Nội dung tích hợp Công dân số cần cụ thể hơn trong yêu cầu cần đạt.
 
                 II. Đồ dùng dạy học
                 1. Giáo viên
